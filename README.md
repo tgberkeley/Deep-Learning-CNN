@@ -6,7 +6,7 @@
 
 * 2nd Part - Implemented a ResNet-18 architecture to perform classification on the CIFAR-10 dataset. The final model achieved a ~87% accuracy
 
-In addition to the code, the CIFAR10_CNN.ipynb has answers to the following questions:
+In addition to the code, Deep_Learning_CNN.ipynb answers the following questions:
 
 * Given such a network with a large number of trainable parameters, and a training set of a large number of data, what do you think is the best strategy for hyperparameter searching?
 * Compare the feature maps from low-level layers to high-level layers, what do you observe?
